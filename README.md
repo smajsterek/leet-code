@@ -1,10 +1,10 @@
 # leet-code
 Solutions to leetCode tasks. https://leetcode.com/
 
-##Problem Type
+## Problem Type
 * [Lists](https://github.com/smajsterek/leet-code#lists)
 
-###Lists
+### Lists
 
 | # | Title           |  Solution       |  Time           | Space           | Difficulty    |
 |:-----:|:----------------:|:---------------:|:---------------:|:---------------:|:-------------:|
