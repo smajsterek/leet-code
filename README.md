@@ -8,5 +8,5 @@ Solutions to leetCode tasks. https://leetcode.com/
 
 | # | Title           |  Solution       |  Time           | Space           | Difficulty    |
 |:-----:|:----------------:|:---------------:|:---------------:|:---------------:|:-------------:|
-|21     | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [MergeTwoSortedLists](./blob/master/src/main/java/leetcode/MergeTwoSortedLists.java) | _O(n)_       | _O(1)_          | Easy         |
+|21     | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [MergeTwoSortedLists](./src/main/java/leetcode/MergeTwoSortedLists.java) | _O(n)_       | _O(1)_          | Easy         |
 
