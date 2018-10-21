@@ -2,7 +2,7 @@ package leetcode.arrays;
 
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 
 /**
  * @author smajsterek on 21.10.2018
@@ -15,6 +15,8 @@ class NextPermutationTest {
         assertArrayEquals(new int[]{1, 2, 3, 4, 6, 5}, np.nextPermutation(new int[]{1, 2, 3, 4, 5, 6}));
         assertArrayEquals(new int[]{2, 1, 3, 4, 5, 6}, np.nextPermutation(new int[]{1, 6, 5, 4, 3, 2}));
         assertArrayEquals(new int[]{1, 5, 8, 5, 1, 3, 4, 6, 7}, np.nextPermutation(new int[]{1, 5, 8, 4, 7, 6, 5, 3, 1}));
+        assertArrayEquals(new int[]{5, 1, 1}, np.nextPermutation(new int[]{1, 5, 1}));
+
     }
 
     @Test
